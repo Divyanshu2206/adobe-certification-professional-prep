@@ -39,7 +39,7 @@ Every factual claim was researched against [Adobe Experience League](https://exp
 | Questions | 55 |
 | Passing score | 36 of 55 |
 | Duration | 110 minutes |
-| Fee | $125 USD |
+| Fee | $95 (+Taxes) USD |
 | Format | Multiple choice |
 
 > **Sourcing note:** these logistics come from third-party certification study sites, **not** from Adobe directly. Verify them on [certification.adobe.com](https://certification.adobe.com) before you book — Adobe changes exam parameters without notice.
